@@ -1,3 +1,6 @@
-umd
+es
 node_modules
-npm-debug.log
+umd
+test
+/*.js
+!rollup.config.js
